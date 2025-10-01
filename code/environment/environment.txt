@@ -1,0 +1,17 @@
+Environment
+
+OS: Windows 11
+VS Code: 1.104.2
+Python: 3.11.5
+pip: 23.2.1
+
+Core Python packages (local, VS Code):
+numpy==2.1.3
+scipy==1.15.3
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.3
+tsfel==0.1.9
+
+Note:
+- TSFEL-related code runs on Google Colab.
